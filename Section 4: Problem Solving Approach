@@ -5,3 +5,6 @@ Slides: https://cs.slides.com/colt_steele/problem-solving-patterns#/4/0/4
 2. Explore concrete examples
 3. Solve/Simplify
 4. Look Back and Refactor
+
+
+Question: Write a function which takes in astring and returns counts of each character in the string.
